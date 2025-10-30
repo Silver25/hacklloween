@@ -32,6 +32,14 @@ Here can be described the setup and startup of the Project locally and in the Cl
 
 ## Technologies and Tools used
 
+## Team behind the Project [ Contributors/collaborators ]
+
+Collaboration is the process of working together towards a common goal. It involves individuals or groups sharing knowledge, skills, and resources to achieve a shared objective.  
+
+https://github.com/aksurcos  
+https://github.com/Rebekah-codes  
+https://github.com/silver25
+
 ## License
 
 This section should state any copyright asserted on the project materials as well as the terms of use for the software, files and other materials found in the project repository.
