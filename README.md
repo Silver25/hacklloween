@@ -1,6 +1,9 @@
 # hacklloween
 Code Institute October 2025 Hackathon.
 
+<img width="2560" height="650" alt="image" src="https://github.com/user-attachments/assets/72d96763-6393-462d-bf20-e6dc962e92dd" />
+
+
 ## Introduction
 
 For a real software project, the Introduction section should summarize the motivations for creating the software, the need(s) addressed by the software, what the software does, and optionally, links to resources that can help orient readers. Ideally, this section should be short and use plain language. Keep in mind that not all readers will be familiar with the topic area.
