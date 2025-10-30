@@ -1,4 +1,4 @@
-# hacklloween
+# ha(ck)lloween
 Code Institute October 2025 Hackathon.
 
 <img width="2560" height="650" alt="image" src="https://github.com/user-attachments/assets/72d96763-6393-462d-bf20-e6dc962e92dd" />
