@@ -37,6 +37,7 @@ Here can be described the setup and startup of the Project locally and in the Cl
 Collaboration is the process of working together towards a common goal. It involves individuals or groups sharing knowledge, skills, and resources to achieve a shared objective.  
 
 https://github.com/aksurcos  
+https://github.com/GenericName192  
 https://github.com/Rebekah-codes  
 https://github.com/silver25
 
