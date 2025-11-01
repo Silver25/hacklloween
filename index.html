@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>The Haunted House Builder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+    <h1>The Haunted House Builder</h1>
+    </header>
+    <main>
+    <aside class="sidebar">
+      <section>
+        <h2>Spooky Objects</h2>
+        <div class="tools">
+          <div class="tool-item" data-type="objects" data-id="ghost">
+            <img src="assets/ghost.png" alt="ghost"/>
+            <div class="tool-label">Ghost (40 Points)</div>
+          </div>
+
+          <div class="tool-item"  data-type="objects" data-id="candle">
+            <img src="assets/candle.png" alt="candle"/>
+            <div class="tool-label">Candle (5 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="skull">
+            <img src="assets/skull.png" alt="skull"/>
+            <div class="tool-label">Skull (30 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="cockroach">
+            <img src="assets/cockroach.png" alt="cockroach"/>
+            <div class="tool-label">Cockroach  (10 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="spider">
+            <img src="assets/spider.png" alt="spider"/>
+            <div class="tool-label">Spider (5 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="tombstone">
+            <img src="assets/tombstone.png" alt="tombstone"/>
+            <div class="tool-label">Tombstone (25 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="blackcat">
+            <img src="assets/blackcat.gif" alt="black cat"/>
+            <div class="tool-label">Black Cat (15 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="bat">
+            <img src="assets/bats.gif" alt="bat"/>
+            <div class="tool-label">Bat (20 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="worms">
+            <img src="assets/worms.png" alt="worms"/>
+            <div class="tool-label">Worms (30 Points)</div>
+          </div>
+
+          <div class="tool-item" draggable="true" data-type="objects" data-id="centipede">
+            <img src="assets/centipede.png" alt="centipede"/>
+            <div class="tool-label">Centipede (20 Points)</div>
+          </div>
+
+          </section>
+        </aside>
+
+        <section class="canvas-wrap">
+            <h2>Building Haunted House</h2>
+            <div id="house-area" class="house-area" aria-label="House canvas">
+        <img id="house-img" src="assets/HauntedHouse.png" alt="House" />
+        </div>
+      <p class="hint">Drag assets onto the image.
+        </section>      
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
